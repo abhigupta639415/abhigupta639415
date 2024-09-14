@@ -9,7 +9,7 @@ I'm a 2nd year Computer Science and Engineering student and a front-end develope
 * 🌍  I'm based in **India**.
 * ✉️  You can contact me at [abhigupta639415@gmail.com](mailto:abhigupta639415@gmail.com)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Vivek+Gupta.;Love+to+write+code+and+create+websites.;Think.+Act.+Evaluate.+Improve.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Abhishek+Gupta.;Love+to+write+code+and+create+websites.;Think.+Act.+Evaluate.+Improve.)
 
 ### Skills
 
