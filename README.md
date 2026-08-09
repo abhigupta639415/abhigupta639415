@@ -4,7 +4,7 @@ Hi 👋 My name is Abhishek Gupta
 Front-end Developer 
 ------------------------  
 
-I'm a 3rd year Computer Science and Engineering student and a front-end developer.
+I'm a 3rd year Computer Science and Engineering student and a Full Stack Developer.
    
 * 🌍  I'm based in **India**.
 * ✉️  You can contact me at [abhigupta639415@gmail.com](mailto:abhigupta639415@gmail.com)
