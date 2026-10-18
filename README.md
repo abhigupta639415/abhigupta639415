@@ -1,7 +1,7 @@
 Hi 👋 My name is Abhishek Gupta
 ============================     
                 
-Front-end Developer 
+Software Developer/full Stack Developer
 ------------------------  
 
 I'm a 3rd year Computer Science and Engineering student and a Full Stack Developer.
